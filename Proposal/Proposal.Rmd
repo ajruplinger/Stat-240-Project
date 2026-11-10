@@ -1,0 +1,42 @@
+---
+title: "Proposal"
+output: html_document
+---
+
+# Group member names: 
+  Aaron Ruplinger, Brady Lor, Christian Peleck, Vanessa Phillips
+
+# A brief description of how the group will communicate and work together.
+  The group will communicate and work together through a groupchat on Instagram
+
+# When during the week can the group meet:
+
+
+# What platforms will the group use to communicate and share documents:
+  The group can communicate and share documents through GitHub and Email
+
+# The question or questions of interest:
+  The question of interest is
+
+# Links to download the dataset(s) you are going to use:
+  
+  
+# A description of the data:
+  Who originally recorded the data, and what was the method they used?
+  
+  
+  What are the key variables in the data set and how are they related to your key questions? (You do not have to describe unused         variables.)
+  
+  
+  What does a single row of the data set represent?
+
+
+  If the data is a sample from some larger population, what is that population?
+  
+  
+# An outline of a graph related to your question of interest:
+
+
+# The type of inference method we are going to use:
+
+
