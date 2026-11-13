@@ -10,33 +10,34 @@ output: html_document
   The group will communicate and work together through a groupchat on Instagram
 
 # When during the week can the group meet:
-
+We can meet from Mondays 5-7pm
 
 # What platforms will the group use to communicate and share documents:
   The group can communicate and share documents through GitHub and Email
 
 # The question or questions of interest:
-  The question of interest is
+  The question of interest is: Is the median household income associated with life expectancy?
 
 # Links to download the dataset(s) you are going to use:
-  
+  https://www.countyhealthrankings.org/health-data/methodology-and-sources/data-documentation
+  2025 CHR CSV Analytic Data
+  https://www.countyhealthrankings.org/sites/default/files/media/document/DataDictionary_2025.pdf
   
 # A description of the data:
   Who originally recorded the data, and what was the method they used?
+  The County Health Rankings & Roadmaps which is a program of the University of Wisconsin Health Institute. They got the   data from federal agencies that collects the data and compile all the county data together.
+  
+  What are the key variables in the data set and how are they related to your key questions? (You do not have to describe   unused variables.)
+  The key variables would be life expectancy and the median household income. These two variables are the ones that we     are measuring. We also have fipscode, state, and county as the identifiers for the county. 
   
   
-  What are the key variables in the data set and how are they related to your key questions? (You do not have to describe unused         variables.)
-  
-  
-  What does a single row of the data set represent?
-
-
-  If the data is a sample from some larger population, what is that population?
+  What does a single row of the data set represent
+  A single row of data represents one US county
   
   
 # An outline of a graph related to your question of interest:
-
+  The graph will be a scatterplot with the median household income being the x-axis in dollars, and life expactancy on     the y-axis with years. We can have a regression line as well to show the relationship. 
 
 # The type of inference method we are going to use:
-
+  We will use a simple linear regression 
 
