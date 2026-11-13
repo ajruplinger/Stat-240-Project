@@ -31,7 +31,7 @@ We can meet from Mondays 5-7pm
   The key variables would be life expectancy and the median household income. These two variables are the ones that we     are measuring. We also have fipscode, state, and county as the identifiers for the county. 
   
   
-  What does a single row of the data set represent
+  What does a single row of the data set represent?
   A single row of data represents one US county
   
   
