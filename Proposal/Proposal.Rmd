@@ -4,7 +4,7 @@ output: html_document
 ---
 
 # Group member names: 
-  Aaron Ruplinger, Brady Lor, Christian Peleck, Vanessa Phillips
+  Aaron Ruplinger, Brady Lor, Christian Peleck, Vanessa Phillips, Amrutha Hasinii
 
 # A brief description of how the group will communicate and work together.
   The group will communicate and work together through a groupchat on Instagram
